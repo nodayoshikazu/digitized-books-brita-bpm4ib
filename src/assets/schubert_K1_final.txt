@@ -1403,7 +1403,7 @@ Mit freundlichen Grüßen Max Muster
 ||change instructions||
 
 
-[.interview]
+[.interview:bitmark--]
 [%20b]
 [!Tätigkeitsbeschreibung in Bewerbungsanschreiben
 Formulieren Sie aus den vorgegebenen Wörtern Sätze. Achten Sie auf die angegebene Zeitform, den richtigen Kasus und eventuell fehlende Präpositionen.]
