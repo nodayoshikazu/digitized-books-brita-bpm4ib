@@ -22,7 +22,7 @@ K1 corrections
 [@ISBN:978-3-941323-43-8]
 
 [.article]
-||Excluded: Test test Bitte beachten Sie unser Internet-Angebot mit zusätzlichen Aufgaben und Übungen zum Lehrwerk unter: www.aufgaben.schubert-verlag.de||
+||Excluded: Bitte beachten Sie unser Internet-Angebot mit zusätzlichen Aufgaben und Übungen zum Lehrwerk unter: www.aufgaben.schubert-verlag.de||
 
 ||Excluded: Das vorliegende Lehrbuch beinhaltet einen herausnehmbaren Lösungsschlüssel sowie eine CD zur Hörverstehensschulung.
 Die Hörmaterialien sind außerdem auf der Website des Verlags unter
@@ -49,7 +49,7 @@ ISBN:978-3-941323-43-8
 
 [.article:bitmark++]
 
-Kapitel 1 Personen und Lebensläufe
+**Kapitel 1 Personen und Lebensläufe**
 
 __Sprachliche Handlungen__	
 
@@ -403,8 +403,7 @@ Der Anhang enthält eine Redemittelübersicht, einen Übungssatz zur Vorbereitun
 
 || Anpassen in Absprache mit dem Verlag:Zum Lehrwerk gehört ein herausnehmbares Lösungsheft. Hier sind auch die Transkriptionen der Hörtexte abgedruckt. Außerdem liegt dem Lehrwerk eine **Audio-CD** zur Schulung des Hörverstehens bei. Der Inhalt der CD ist auch unter *https://www.schubert-verlag.de/erkundungen_b2_audio3a.php* als kostenloser MP3-Download und in unserer Audio-App verfügbar.||
 
-**Erkundungen B2** führt zum Niveau B2 des Europäischen Referenzrahmens für Sprachen und zur Prüfung Goethe-Zertifikat B2. Das Lehrwerk wird durch ein Lehrerhandbuch ergänzt, in dem methodische Hinweise sowie Arbeitsblätter und Abschlusstests zu den einzelnen Kapiteln enthalten sind. 
-||tbd:Außerdem werden vielfältige Zusatzmaterialien im Internet auf der Seite __www.aufgaben.schubert-verlag.de__ bereitgestellt.||
+**Erkundungen B2** führt zum Niveau B2 des Europäischen Referenzrahmens für Sprachen und zur Prüfung Goethe-Zertifikat B2. Das Lehrwerk wird durch ein Lehrerhandbuch ergänzt, in dem methodische Hinweise sowie Arbeitsblätter und Abschlusstests zu den einzelnen Kapiteln enthalten sind. ||tbd:Außerdem werden vielfältige Zusatzmaterialien im Internet auf der Seite __www.aufgaben.schubert-verlag.de__ bereitgestellt.||
 
 ||tbd:Zu **Erkundungen B2** stehen auf unserer Website unter __www.schubert-verlag.de/b2_whiteboard.php__
 Zusatzmaterialien für die Arbeit am Whiteboard kostenfrei zur Verfügung.|| Wir wünschen viel Erfolg und Freude bei der Arbeit mit **Erkundungen B2**. 
@@ -571,47 +570,109 @@ Was wollten Sie früher werden?[@example]
 ===
 [%1.]	warum – Deutsch lernen – Sie – wollen __(Präsens)__
 ==
-[$Warum wollen Sie Deutsch lernen?]	 	
+[$Warum wollen Sie Deutsch lernen?]
 ===
-[%2.]	möchten – wohin – fahren – Sie – im nächsten Urlaub __(Präsens)__	 
+[%2.]	möchten – wohin – fahren – Sie – im nächsten Urlaub __(Präsens)__
 ==
-[$Wohin möchten Sie im nächsten Urlaub fahren?]	 	
+[$Wohin möchten Sie im nächsten Urlaub fahren?]
 ===
 [%3.] Musik – mögen – welche – Sie __(Präsens)__
 ==
-[$Welche Musik mögen Sie?]	 	
+[$Welche Musik mögen Sie?]
 ===
-[%4.]	können – welche – sprechen – Sprachen – besonders gut – Sie __(Präsens)__ 
+[%4.]	können – welche – sprechen – Sprachen – besonders gut – Sie __(Präsens)__
 ==
-[$Welche Sprachen können Sie besonders gut sprechen?]	 	
+[$Welche Sprachen können Sie besonders gut sprechen?]
 ===
-[%5.]	als Kind – dürfen – Sie – was – nicht – tun __(Präteritum)__	 	
+[%5.]	als Kind – dürfen – Sie – was – nicht – tun __(Präteritum)__
 ==
-[$Was durften Sie als Kind nicht tun?]	 	
+[$Was durften Sie als Kind nicht tun?]
 ===
-[%6.]	aufstehen – Sie – morgens – müssen – wann __(Präsens)__	 	
+[%6.]	aufstehen – Sie – morgens – müssen – wann __(Präsens)__
 ==
-[$Wann müssen Sie morgens aufstehen?]	 	
+[$Wann müssen Sie morgens aufstehen?]
 ===
-[%7.]	wohnen – Sie – wo – möchten – am liebsten __(Präsens)__	 
+[%7.]	wohnen – Sie – wo – möchten – am liebsten __(Präsens)__
 ==
-[$Wo möchten Sie am liebsten wohnen? ]	 	
+[$Wo möchten Sie am liebsten wohnen? ]
 ===
-[%8.]	Sie – Ski laufen – als Kind – können __(Präteritum)__	 	
+[%8.]	Sie – Ski laufen – als Kind – können __(Präteritum)__
 ==
-[$Konnten Sie als Kind Ski laufen?]	 	
+[$Konnten Sie als Kind Ski laufen?]
 ===
-[%9.]	mögen – Sie – früher – Zeichentrickfilme __(Präteritum)__	 	
+[%9.]	mögen – Sie – früher – Zeichentrickfilme __(Präteritum)__
 ==
-[$Mochten Sie früher Zeichentrickfilme?]	 	
+[$Mochten Sie früher Zeichentrickfilme?]
 ===
-[%10.]	eine Prüfung – wiederholen – schon mal – müssen – Sie __(Präteritum)__	
-== 
-[$Mussten Sie schon mal eine Prüfung wiederholen?]	 	
-===
-[%11.]	in Ihrer Arbeitszeit – dürfen – Sie – privat im Internet – surfen __(Präsens)__	 	
+[%10.]	eine Prüfung – wiederholen – schon mal – müssen – Sie __(Präteritum)__
 ==
-[$Dürfen Sie in Ihrer Arbeitszeit privat im Internet surfen?]	 	
+[$Mussten Sie schon mal eine Prüfung wiederholen?]
+===
+[%11.]	in Ihrer Arbeitszeit – dürfen – Sie – privat im Internet – surfen __(Präsens)__
+==
+[$Dürfen Sie in Ihrer Arbeitszeit privat im Internet surfen?]
+===
+
+
+
+
+
+[.match:bitmark--]
+[%A3a]
+Fragen Sie.
+[!Bilden Sie aus den Wortreihen Fragen im Präsens oder Präteritum.]
+===
+Sie – historische Romane – mögen __(Präsens)__
+==
+Mögen Sie historische Romane?[@example]
+===
+wollen – werden – was – früher – Sie __(Präteritum)__
+==
+Was wollten Sie früher werden?[@example]
+===
+[%1.]	warum – Deutsch lernen – Sie – wollen __(Präsens)__
+==
+[$Warum wollen Sie Deutsch lernen?]
+===
+[%2.]	möchten – wohin – fahren – Sie – im nächsten Urlaub __(Präsens)__
+==
+[$Wohin möchten Sie im nächsten Urlaub fahren?]
+===
+[%3.] Musik – mögen – welche – Sie __(Präsens)__
+==
+[$Welche Musik mögen Sie?]
+===
+[%4.]	können – welche – sprechen – Sprachen – besonders gut – Sie __(Präsens)__
+==
+[$Welche Sprachen können Sie besonders gut sprechen?]
+===
+[%5.]	als Kind – dürfen – Sie – was – nicht – tun __(Präteritum)__
+==
+[$Was durften Sie als Kind nicht tun?]
+===
+[%6.]	aufstehen – Sie – morgens – müssen – wann __(Präsens)__
+==
+[$Wann müssen Sie morgens aufstehen?]
+===
+[%7.]	wohnen – Sie – wo – möchten – am liebsten __(Präsens)__
+==
+[$Wo möchten Sie am liebsten wohnen? ]
+===
+[%8.]	Sie – Ski laufen – als Kind – können __(Präteritum)__
+==
+[$Konnten Sie als Kind Ski laufen?]
+===
+[%9.]	mögen – Sie – früher – Zeichentrickfilme __(Präteritum)__
+==
+[$Mochten Sie früher Zeichentrickfilme?]
+===
+[%10.]	eine Prüfung – wiederholen – schon mal – müssen – Sie __(Präteritum)__
+==
+[$Mussten Sie schon mal eine Prüfung wiederholen?]
+===
+[%11.]	in Ihrer Arbeitszeit – dürfen – Sie – privat im Internet – surfen __(Präsens)__
+==
+[$Dürfen Sie in Ihrer Arbeitszeit privat im Internet surfen?]
 ===
 
 
@@ -619,37 +680,38 @@ Was wollten Sie früher werden?[@example]
 
 [.interview]
 [%A3b]
-[!Stellen Sie Ihrer Nachbarin/Ihrem Nachbarn acht Fragen aus der folgenden Auswahl und notieren Sie die Antworten.]
-||angepasste Instruktion mit Schubert besprechen||
+[!Stellen Sie Ihrer Nachbarin/Ihrem Nachbarn acht Fragen aus der folgenden Auswahl und notieren Sie die Antworten.]||angepasste Instruktion mit Schubert besprechen||
 ===
 [%*] Mögen Sie historische Romane?[@shortAnswer]
 [@example:Mein Nachbar mag keine historischen Romane.]
 ===
 [%1]Was wollten Sie früher werden?[@shortAnswer]
 ===
-[%2]Warum wollen Sie Deutsch lernen?[@shortAnswer]	 	
+[%2]Warum wollen Sie Deutsch lernen?[@shortAnswer]
 ===
-[%3]Wohin möchten Sie im nächsten Urlaub fahren?[@shortAnswer]	 
+[%3]Wohin möchten Sie im nächsten Urlaub fahren?[@shortAnswer]
 ===
-[%4]Welche Musik mögen Sie?[@shortAnswer]	 	
+[%4]Welche Musik mögen Sie?[@shortAnswer]
 ===
-[%5]Welche Sprachen können Sie besonders gut sprechen?[@shortAnswer]	 	
+[%5]Welche Sprachen können Sie besonders gut sprechen?[@shortAnswer]
 ===
-[%6]Was durften Sie als Kind nicht tun?[@shortAnswer]	 	
+[%6]Was durften Sie als Kind nicht tun?[@shortAnswer]
 ===
-[%7]Wann müssen Sie morgens aufstehen?[@shortAnswer]	 	
+[%7]Wann müssen Sie morgens aufstehen?[@shortAnswer]
 ===
-[%8]Wo möchten Sie am liebsten wohnen?[@shortAnswer] 
+[%8]Wo möchten Sie am liebsten wohnen?[@shortAnswer]
 ===
-[%9]Konnten Sie als Kind Ski laufen?[@shortAnswer] 
+[%9]Konnten Sie als Kind Ski laufen?[@shortAnswer]
 ===
-[%9]Mochten Sie früher Zeichentrickfilme?[@shortAnswer] 
+[%9]Mochten Sie früher Zeichentrickfilme?[@shortAnswer]
 ===
-[%10]Mussten Sie schon mal eine Prüfung wiederholen?[@shortAnswer] 
+[%10]Mussten Sie schon mal eine Prüfung wiederholen?[@shortAnswer]
 ===
 [%11]Dürfen Sie in Ihrer Arbeitszeit privat im Internet surfen?[@shortAnswer]
 ===
-||what to do with unanswered questions?||
+
+
+
 
 
 [.internal-link]
@@ -661,6 +723,7 @@ Was wollten Sie früher werden?[@example]
 
 [.chapter]
 [###Schule und Ausbildung]
+
 
 
 [.interview:bitmark--&ImageWithAudio]
@@ -720,7 +783,7 @@ jetziger Beruf:[@shortAnswer]
 [.cloze-solution-grouped]
 [%A4b]
 [!Ergänzen Sie die fehlenden Nomen.]
-Ich kann mich natürlich sehr gut an meinen Schulweg erinnern, denn meine Schule war in einem anderen [_Stadtteil][%1] und ich musste ziemlich lange mit dem Bus fahren, 45 Minuten. Meistens habe ich während der Busfahrt meine [_Hausaufgaben][%2] gemacht. Meine [_Handschrift][%3] war dann aber nicht die schönste und viele Lehrer konnten meine Hausaufgaben nicht richtig lesen. Ich kann mich auch noch an unseren Physiklehrer erinnern. Das war ein junger Lehrer und wir haben sehr viele interessante [_Experimente][%4] durchgeführt. Meine [_Lieblingsfächer][%5] waren eigentlich alle naturwissenschaftlichen Fächer, also Physik, Chemie und Biologie. Ich wollte früher immer Tiefseetaucher werden und im Ozean nach [_Schätzen][%6] und versunkenen Schiffen suchen. Unsere Englischlehrerin, Mrs. Jones, war sehr attraktiv und ich glaube, die [_Hälfte][%7] der Jungen war in sie verliebt. Ich auch. Leider hatte ich [_Schwierigkeiten][%8] mit Sprachen, weil ich zu faul war, [_Vokabeln][%9] zu lernen. Deshalb konnte mich Mrs. Jones nicht besonders gut leiden.
+Ich kann mich natürlich sehr gut an meinen Schulweg erinnern, denn meine Schule war in einem anderen [_Stadtteil] und ich musste ziemlich lange mit dem Bus fahren, 45 Minuten. Meistens habe ich während der Busfahrt meine [_Hausaufgaben] gemacht. Meine [_Handschrift] war dann aber nicht die schönste und viele Lehrer konnten meine Hausaufgaben nicht richtig lesen. Ich kann mich auch noch an unseren Physiklehrer erinnern. Das war ein junger Lehrer und wir haben sehr viele interessante [_Experimente] durchgeführt. Meine [_Lieblingsfächer] waren eigentlich alle naturwissenschaftlichen Fächer, also Physik, Chemie und Biologie. Ich wollte früher immer Tiefseetaucher werden und im Ozean nach [_Schätzen] und versunkenen Schiffen suchen. Unsere Englischlehrerin, Mrs. Jones, war sehr attraktiv und ich glaube, die [_Hälfte] der Jungen war in sie verliebt. Ich auch. Leider hatte ich [_Schwierigkeiten] mit Sprachen, weil ich zu faul war, [_Vokabeln] zu lernen. Deshalb konnte mich Mrs. Jones nicht besonders gut leiden.
 
 
 
@@ -947,9 +1010,9 @@ Auf welche Schule bist du/sind Sie gegangen?]
 [%A8c]
 [!Ordnen Sie das passende Verb/die passenden Verben zu.]
 ===
-[%1] auf eine Schule 
+1. auf eine Schule 
 ==
-[%b]gehen[@example]
+gehen[@example]
 ===
 2. an einer Hochschule
 ==
@@ -988,7 +1051,7 @@ besuchen
 [.cloze-solution-grouped]
 [%A9]
 [!Ergänzen Sie die passenden Nomen.]
-Andreas war ein [_Musterschüler][@example]. Schon in der Grundschule war er [_Klassenbester][%1] Sein liebstes [_Fach][%2] war von Anfang an Mathematik. Er vergaß nie, seine [_Hausaufgaben][%3] zu machen. Nach der Grundschule ging er auf das[_Gymnasium][%4]. Jedes Jahr brachte er das beste[_Zeugnis][%5] der Klasse mit nach Hause. Er schrieb sehr gute [_Aufsätze][%6] und seine [_Diktate][%7] waren fehlerfrei. Als er älter wurde, gab er schwächeren Schülern [_Nachhilfeunterricht][%8]. Außerhalb der [_Schulzeit][%9] las Andreas viel, um seine [_Allgemeinbildung][%10] zu verbessern. Im [_Unterricht][%11] bereitete er sich auf seine [_Prüfungen][%12] gut vor. Sein [_Abitur][%13] bestand er mit einer sehr guten [_Durchschnittsnote][%14].
+Andreas war ein [_Musterschüler][@example]. Schon in der Grundschule war er [_Klassenbester] Sein liebstes [_Fach] war von Anfang an Mathematik. Er vergaß nie, seine [_Hausaufgaben] zu machen. Nach der Grundschule ging er auf das[_Gymnasium]. Jedes Jahr brachte er das beste[_Zeugnis] der Klasse mit nach Hause. Er schrieb sehr gute [_Aufsätze] und seine [_Diktate] waren fehlerfrei. Als er älter wurde, gab er schwächeren Schülern [_Nachhilfeunterricht]. Außerhalb der [_Schulzeit] las Andreas viel, um seine [_Allgemeinbildung] zu verbessern. Im [_Unterricht] bereitete er sich auf seine [_Prüfungen] gut vor. Sein [_Abitur] bestand er mit einer sehr guten [_Durchschnittsnote].
 
 
 
@@ -1078,7 +1141,7 @@ Welche Angaben sind enthalten? Wie lang ist er? Worauf sollte man achten?
 
 
 
-[.essay:bitmark]
+[.essay:bitmark--]
 [%A14]
 [!Lebenslauf: Alles oder nichts auf knapp zwei Seiten
 Lesen Sie die folgenden Hinweise zum Verfassen eines Lebenslaufs und markieren Sie die Punkte, die sich von einem Lebenslauf in Ihrem Heimatland unterscheiden. Berichten Sie anschließend darüber.]
@@ -1118,7 +1181,7 @@ Das Grundprinzip eines erfolgreichen Lebenslaufs ist die Klarheit. Er sollte in 
 <<**6. Fort- und Weiterbildung (nicht für Berufseinsteiger)**
 * Seminare, die über den Beruf hinausgehen<<
 
-<<**7. Hobbys** (nur, wenn sie dem Beruf dienlich sind oder eine ehrenamtliche Tätigkeit beinhalten)<<[@refernce::Lebenslauf: Alles oder nichts auf knapp zwei Seiten. FOCUS online In: http://www.focus.de/finanzen/]
+<<**7. Hobbys** (nur, wenn sie dem Beruf dienlich sind oder eine ehrenamtliche Tätigkeit beinhalten)<<[@reference::Lebenslauf: Alles oder nichts auf knapp zwei Seiten. FOCUS online In: http://www.focus.de/finanzen/]
  
 
 Am Ende des Lebenslaufs stehen Datum und Unterschrift.
@@ -1323,23 +1386,21 @@ Teilnehmer 3
 [.cloze:bitmark--]
 [%A20a]
 [!Das Bewerbungsanschreiben
-Sie erhalten das folgende Bewerbungsanschreiben. Leider sind einzelne Wörter unleserlich. Rekonstruieren Sie den Text, indem Sie jeweils das fehlende Wort an den Rand schreiben.]
-||Auf Screens unterschiedlicher Grösse macht die Instruktion “am Rand” keinen Sinn. Die Instruktion wurde daher angepasst||
+Sie erhalten das folgende Bewerbungsanschreiben. Leider sind einzelne Wörter unleserlich. Rekonstruieren Sie den Text, indem Sie jeweils das fehlende Wort an den Rand schreiben.]||Auf Screens unterschiedlicher Grösse macht die Instruktion “am Rand” keinen Sinn. Die Instruktion wurde daher angepasst||
 **Ihr Stellenangebot als Ingenieur für Elektrotechnik**
 
 Sehr geehrte Frau Fischer,
-durch meine langjährige Tätigkeit im Bereich des industriellen Anlagebaus [_kenne][@example] ich die exzellente Reputation Ihres Unternehmens. Gerne würde ich meine Fähigkeiten [_für][%1]
-Ihr Unternehmen einsetzen, deshalb bewerbe ich mich hiermit um die ausgeschriebene [_Stelle][%2] als Ingenieur für Elektrotechnik. Besonders angesprochen hat mich die Aussicht [_auf][%3] eine verantwortungsvolle Position und die enge Zusammenarbeit mit internationalen [_Kunden][_Geschäftspartnern][_Partnern][%4]. Das Studium der Elektrotechnik an der Universität Nürnberg habe ich 2005 mit [_dem][_einem][%5] Diplom erfolgreich abgeschlossen.
-Seitdem konnte ich bei meinem jetzigen Arbeitgeber vielfältige Erfahrungen in der Projektierung von ==MSR-Anlagen==(*Mess-, Steuer- und Regelungsanlagen)== und in der Automatisierung im industriellen Anlagenbau [_sammeln][_machen][%6]
-Ich bin für die Durchführung von Engineering-Projekten im Bereich der Steuer- und Regelungstechnik für Industrieanlagen verantwortlich und stehe den Kunden[_und][%7]
-Lieferanten in allen projektrelevanten und elektrotechnischen Fragen zur [_Verfügung][%8]
-Zur weiteren erfolgreichen Bewältigung meiner jetzigen Arbeitsaufgaben gehören[_neben][%9]
-Fachkenntnissen auch Teamgeist und ausgezeichnete kommunikative Fertigkeiten. Selbstverständlich verfüge ich über profunde Kenntnisse in ==SPS==(*speicherprogrammierbare Steuerung(en))==. Ich [_spreche][%10] und schreibe fließend Englisch.
-Über die Einladung zu einem persönlichen Gespräch würde ich mich sehr [_freuen][%11]
+durch meine langjährige Tätigkeit im Bereich des industriellen Anlagebaus [_kenne][@example] ich die exzellente Reputation Ihres Unternehmens. Gerne würde ich meine Fähigkeiten [_für]
+Ihr Unternehmen einsetzen, deshalb bewerbe ich mich hiermit um die ausgeschriebene [_Stelle] als Ingenieur für Elektrotechnik. Besonders angesprochen hat mich die Aussicht [_auf] eine verantwortungsvolle Position und die enge Zusammenarbeit mit internationalen [_Kunden][_Geschäftspartnern][_Partnern]. Das Studium der Elektrotechnik an der Universität Nürnberg habe ich 2005 mit [_dem][_einem] Diplom erfolgreich abgeschlossen.
+Seitdem konnte ich bei meinem jetzigen Arbeitgeber vielfältige Erfahrungen in der Projektierung von ==MSR-Anlagen==(*Mess-, Steuer- und Regelungsanlagen)== und in der Automatisierung im industriellen Anlagenbau [_sammeln][_machen]
+Ich bin für die Durchführung von Engineering-Projekten im Bereich der Steuer- und Regelungstechnik für Industrieanlagen verantwortlich und stehe den Kunden[_und]
+Lieferanten in allen projektrelevanten und elektrotechnischen Fragen zur [_Verfügung]
+Zur weiteren erfolgreichen Bewältigung meiner jetzigen Arbeitsaufgaben gehören[_neben]
+Fachkenntnissen auch Teamgeist und ausgezeichnete kommunikative Fertigkeiten. Selbstverständlich verfüge ich über profunde Kenntnisse in ==SPS==(*speicherprogrammierbare Steuerung(en))==. Ich [_spreche] und schreibe fließend Englisch.
+Über die Einladung zu einem persönlichen Gespräch würde ich mich sehr [_freuen] 
 Mit freundlichen Grüßen Max Muster
 
 ||change instructions||
-
 
 
 [.interview]
@@ -1380,6 +1441,8 @@ Formulieren Sie aus den vorgegebenen Wörtern Sätze. Achten Sie auf die angegeb
 [$Ich konnte Erfahrungen im Bereich der Erstellung von Werbematerialen sammeln.]
 ===
 
+
+
 [.chapter]
 [###Zwischenmenschliche Beziehungen]
 
@@ -1409,7 +1472,7 @@ Trotz sogenanntem „wissenschaftlichen Vorgehen“ bei der Partnersuche raten F
 Sind die folgenden Aussagen richtig oder falsch? Kreuzen Sie an.]
 [@label-true:richtig][@label-false:falsch]
 ===
-[%1][- Die Orte des Kennenlernens haben sich in den letzten Jahrzehnten nicht verändert. ]
+[%1][-Die Orte des Kennenlernens haben sich in den letzten Jahrzehnten nicht verändert. ]
 ===
 [%2][+Die Studie des Jugendinstituts in München läuft über mehrere Jahre.]
 ===
@@ -1419,7 +1482,7 @@ Sind die folgenden Aussagen richtig oder falsch? Kreuzen Sie an.]
 ===
 [%5][+Sie bestätigten die große Rolle des Freundes- und Bekanntenkreises bei der Partnersuche. ]
 ===
-[%6][+Das Arbeitsleben gewann in den letzten Jahren für die Partnersuche an Bedeutung.] 
+[%6][+Das Arbeitsleben gewann in den letzten Jahren für die Partnersuche an Bedeutung.]
 ===
 [%7][+Bei der Partnersuche achten mehr Menschen auf Gemeinsamkeiten als früher. ]
 ===
@@ -1527,8 +1590,7 @@ Berichten Sie.
 
 [.assignment:bitmark++]
 [%A25c]
-[!Sprechen Sie zu zweit über die Infografik „Hochzeit in Deutschland“.
-||angepasste Instruktion; Streichung des Verweises auf “(Seite 19) mangels Bedarf ”||
+[!Sprechen Sie zu zweit über die Infografik „Hochzeit in Deutschland“.||angepasste Instruktion; Streichung des Verweises auf “(Seite 19) mangels Bedarf ”||
 
 Berichten Sie anschließend im Plenum, was Sie überrascht hat und in welchen Bereichen sich die Zahlen in Deutschland von Ihrem Heimatland unterscheiden. Nennen Sie für bestimmte Fakten, Entwicklungen oder Unterschiede auch Gründe. Nutzen Sie die folgenden Redemittel.]
 
@@ -1599,28 +1661,27 @@ Diskutieren Sie in Kleingruppen und berichten Sie über Ihre Diskussionsergebnis
 [&image::https://docs.bitbook.education/bit-books/schubert/schubert_erkundungen_b2/web-resources/images/bruno-pfad.png]
 [!Ergänzen Sie die fehlenden Nomen in der richtigen Form. Arbeiten Sie zu zweit.]
 **[_Ehe-Aus][@example] für Bruno?**
-__Corinna (33), die fünfte [_Ehefrau][%1] des berühmten Sängers Bruno(63), will die [_Scheidung][%2]!__ In der letzten Zeit vermehrten sich die Gerüchte, Bruno habe ein [_Verhältnis][%3] mit der schönen Backgroundsängerin Sharika. Jetzt reagierte seine Ehefrau. In einem Interview
-mit der Zeitschrift BLITZ sagte die Blondine: „Jetzt ist [_Schluss][%4]! Ich kann es nicht ertragen, dass Bruno schon wieder eine [_Geliebte][%5] hat!“ Corinna hat bereits den erfolgreichen [_Scheidungsanwalt][%6] Otto August von Unmut engagiert, der sie im [_Scheidungsprozess][%7] vertreten soll. Sie fordert die Hälfte des [_Vermögens][%8] und das alleinige [_Sorgerecht][%9] für den gemeinsamen Sohn Lucas (6 Jahre). Was das Finanzielle betrifft, so räumen Experten der betrogenen Ehefrau wenig Chancen ein. Sie hatte vor der Hochzeit einen [_Ehevertrag][%10] unterschrieben und auf finanzielle [_Ansprüche][%11] im Fall einer Scheidung verzichtet. Für Bruno wäre es die fünfte Scheidung. Er hat bereits sieben Kinder aus früheren Ehen, für die er [_Unterhalt][%12] zahlen muss.
-Doch vielleicht gibt es eine unerwartete Wendung. Ein stadtbekannter Juwelier bestätigte gestern gegenüber BLITZ, dass Bruno Schmuck im Wert von 50 000 Euro gekauft habe. Ist der wertvolle Schmuck für Corinna? Will Bruno seinen [_Fehler][%13] wieder gutmachen? Gibt es am Ende sogar eine romantische [_Versöhnung][%14]?
+__Corinna (33), die fünfte [_Ehefrau] des berühmten Sängers Bruno(63), will die [_Scheidung]!__ In der letzten Zeit vermehrten sich die Gerüchte, Bruno habe ein [_Verhältnis] mit der schönen Backgroundsängerin Sharika. Jetzt reagierte seine Ehefrau. In einem Interview
+mit der Zeitschrift BLITZ sagte die Blondine: „Jetzt ist [_Schluss]! Ich kann es nicht ertragen, dass Bruno schon wieder eine [_Geliebte] hat!“ Corinna hat bereits den erfolgreichen [_Scheidungsanwalt] Otto August von Unmut engagiert, der sie im [_Scheidungsprozess] vertreten soll. Sie fordert die Hälfte des [_Vermögens] und das alleinige [_Sorgerecht] für den gemeinsamen Sohn Lucas (6 Jahre). Was das Finanzielle betrifft, so räumen Experten der betrogenen Ehefrau wenig Chancen ein. Sie hatte vor der Hochzeit einen [_Ehevertrag] unterschrieben und auf finanzielle [_Ansprüche] im Fall einer Scheidung verzichtet. Für Bruno wäre es die fünfte Scheidung. Er hat bereits sieben Kinder aus früheren Ehen, für die er [_Unterhalt] zahlen muss.
+Doch vielleicht gibt es eine unerwartete Wendung. Ein stadtbekannter Juwelier bestätigte gestern gegenüber BLITZ, dass Bruno Schmuck im Wert von 50 000 Euro gekauft habe. Ist der wertvolle Schmuck für Corinna? Will Bruno seinen [_Fehler] wieder gutmachen? Gibt es am Ende sogar eine romantische [_Versöhnung]?
 
 
 
 [.mark:bitmark--]
 [%A28c1]
-[!Markieren Sie gemeinsam alle Adjektive in blau. In welchem Genus, Kasus und Numerus steht die Nomengruppe? Vergleichen Sie Ihre Ergebnisse mit anderen Lernern.] 
-||auf dem Mobile ist es schwierig, nur die Endungen zu markieren. Sinnvoller ist es, ganze Wörter zu markieren ||
+[!Markieren Sie gemeinsam alle Adjektive in blau. In welchem Genus, Kasus und Numerus steht die Nomengruppe? Vergleichen Sie Ihre Ergebnisse mit anderen Lernern.] ||auf dem Mobile ist es schwierig, nur die Endungen zu markieren. Sinnvoller ist es, ganze Wörter zu markieren ||
 
 **Ehe-Aus für Bruno?**
 __Corinna (33), die fünfte Ehefrau des ['berühmten][@mark:blue] Sängers Bruno (63), will die Scheidung!__ 
 In der ['letzten][@mark:blue] Zeit vermehrten sich die Gerüchte, Bruno habe ein Verhältnis mit der schönen Backgroundsängerin Sharika. Jetzt reagierte seine Ehefrau. In einem Interview mit der Zeitschrift BLITZ sagte die Blondine: „Jetzt ist Schluss! Ich kann es nicht ertragen, dass Bruno schon wieder eine Geliebte hat!“ Corinna hat bereits den erfolgreichen Scheidungsanwalt Otto August von Unmut engagiert, der sie im Scheidungsprozess vertreten soll. Sie fordert die Hälfte des Vermögens und das alleinige Sorgerecht für den gemeinsamen Sohn Lucas (6 Jahre). Was das Finanzielle betrifft, so räumen Experten der betrogenen Ehefrau wenig Chancen ein. Sie hatte vor der Hochzeit einen Ehevertrag unterschrieben und auf finanzielle Ansprüche im Fall einer Scheidung verzichtet. Für Bruno wäre es die fünfte Scheidung. Er hat bereits sieben Kinder aus früheren Ehen, für die er Unterhalt zahlen muss.
 Doch vielleicht gibt es eine unerwartete Wendung. Ein stadtbekannter Juwelier bestätigte gestern gegenüber BLITZ, dass Bruno Schmuck im Wert von 50 000 Euro gekauft habe. Ist der wertvolle Schmuck für Corinna? Will Bruno seinen Fehler wieder gutmachen? Gibt es am Ende sogar eine romantische Versöhnung?
 
-[.multiple-choice-text] 
+[.multiple-choice-text]
 [%A28c2]
-[In welchem Genus, Kasus und Numerus steht die Nomengruppe? Vergleichen Sie Ihre Ergebnisse mit anderen Lernern.]
+[!In welchem Genus, Kasus und Numerus steht die Nomengruppe? Vergleichen Sie Ihre Ergebnisse mit anderen Lernern.]
 
 des berühmten Sängers 
-[+maskulin][-feminin][-neutral] [+singular][-plural] [+Genitiv][-Akkusativ][-Nominativ][-Dativ], 
+[+maskulin][-feminin][-neutral] [+singular][-plural] [+Genitiv][-Akkusativ][-Nominativ][-Dativ],
 
 In der letzten Zeit  
 [-maskulin][+feminin][-neutral] [+singular][-plural] [-Genitiv][-Akkusativ][-Nominativ][+Dativ]
@@ -1657,17 +1718,17 @@ eine romantische Versöhnung
 
 
 
-[.cloze-instruction-grouped:bitmark]
+[.cloze-instruction-grouped:bitmark++]
 [%A29]
 
 [!Tipps fürs erste Date
 Ergänzen Sie die Adjektive in der richtigen Form.]
-Stellen Sie sich vor, Sie haben in einem Onlineforum einen besonders [_charmanten][!charmant][@example] Menschen kennengelernt und wollen nun endlich wissen, ob die [_netten][!nett][%1] E-Mails und die [_angenehme][!angenehm][%2] Telefonstimme Ihres [_potenziellen][!potenziell][%3] Traumpartners der Realität entsprechen. Worauf müssen Sie beim ersten [_persönlichen][!persönlich][%4] Treffen achten? Hier einige Tipps:
+Stellen Sie sich vor, Sie haben in einem Onlineforum einen besonders [_charmanten][!charmant][@example] Menschen kennengelernt und wollen nun endlich wissen, ob die [_netten][!nett] E-Mails und die [_angenehme][!angenehm] Telefonstimme Ihres [_potenziellen][!potenziell] Traumpartners der Realität entsprechen. Worauf müssen Sie beim ersten [_persönlichen][!persönlich] Treffen achten? Hier einige Tipps:
 
-1.Das erste Date sollte immer an einem [_öffentlichen][!öffentlich][%5] Ort stattfinden, z. B. in einem [_gemütlichen][!gemütlich][%6] Café. Trotz eines [_intensiven][!intensiv][%7] Mailwechsels kann man nie wissen, wer oder was einen erwartet. Wird Ihnen ein Selbstdarsteller? Tritt der zweite Fall ein, sollten Sie sich nicht dazu zwingen, den ganzen Tag mit einem [_attraktiver und witziger][!attraktiv und witzig][%8] Mensch gegenübersitzen oder ein [_unerträglicher][!unerträglich][%9] Selbstdarsteller? Tritt der zweite Fall ein, sollten Sie sich nicht dazu zwingen,den ganzen Tag mit einem [_unsympathischen][!unsympathisch][%10] Fremden zu verbringen. Seien Sie am besten ehrlich und sagen Sie freundlich, dass Sie das Date beenden möchten.
-2.Ein weiteres [_wichtiges][!wichtig][%11] Thema: Ihr Outfit. Tragen Sie das, was Sie immer tragen. In Zweifelsfällen raten Experten zur [_normalen][!normal][%12] Alltagskleidung, darin fühlt man sich wohl und kann entspannter kommunizieren.
-3.Besondere Vorsicht gilt bei der Themenwahl. Vermeiden Sie beim ersten Date [_private oder berufliche][!privat oder beruflich][%13] Problemschilderungen, beispielsweise Ihre Ex-Beziehungen oder den Streit mit Ihrem Chef. Auch die Themen __Politik und Geld__ haben in einem [_guten][!gut][%14] Smalltalk nichts zu suchen.
-4.Zeigen Sie beim ersten Treffen Gelassenheit und bleiben Sie so natürlich wie möglich. Das Einzige, worauf Sie vertrauen sollten, ist Ihre [_innere][!innere][%15] Stimme. Sollte der Funke nicht überspringen, dann seien Sie nicht enttäuscht. Betrachten Sie das Date einfach als [_lehrreiche][!lehrreich][%16] Erfahrung.
+1.Das erste Date sollte immer an einem [_öffentlichen][!öffentlich] Ort stattfinden, z. B. in einem [_gemütlichen][!gemütlich] Café. Trotz eines [_intensiven][!intensiv] Mailwechsels kann man nie wissen, wer oder was einen erwartet. Wird Ihnen ein Selbstdarsteller? Tritt der zweite Fall ein, sollten Sie sich nicht dazu zwingen, den ganzen Tag mit einem [_attraktiver und witziger][!attraktiv und witzig] Mensch gegenübersitzen oder ein [_unerträglicher][!unerträglich] Selbstdarsteller? Tritt der zweite Fall ein, sollten Sie sich nicht dazu zwingen,den ganzen Tag mit einem [_unsympathischen][!unsympathisch] Fremden zu verbringen. Seien Sie am besten ehrlich und sagen Sie freundlich, dass Sie das Date beenden möchten.
+2.Ein weiteres [_wichtiges][!wichtig] Thema: Ihr Outfit. Tragen Sie das, was Sie immer tragen. In Zweifelsfällen raten Experten zur [_normalen][!normal] Alltagskleidung, darin fühlt man sich wohl und kann entspannter kommunizieren.
+3.Besondere Vorsicht gilt bei der Themenwahl. Vermeiden Sie beim ersten Date [_private oder berufliche][!privat oder beruflich] Problemschilderungen, beispielsweise Ihre Ex-Beziehungen oder den Streit mit Ihrem Chef. Auch die Themen Politik und Geld haben in einem [_guten][!gut] Smalltalk nichts zu suchen.
+4.Zeigen Sie beim ersten Treffen Gelassenheit und bleiben Sie so natürlich wie möglich. Das Einzige, worauf Sie vertrauen sollten, ist Ihre [_innere][!innere] Stimme. Sollte der Funke nicht überspringen, dann seien Sie nicht enttäuscht. Betrachten Sie das Date einfach als [_lehrreiche][!lehrreich] Erfahrung.
 
 [.internal-link]
 [!Zusatzübungen zur Deklination der Adjektive ➔ Teil C][►kapitel1c]
@@ -1734,41 +1795,42 @@ In: http://www.tagesspiegel.de/politik]
 Bilden Sie aus den vorgegebenen Wörtern Sätze. Achten Sie auf eventuell fehlende Präpositionen und den richtigen Kasus.]
 ===
 Erkenntnisse des Bundesamts für Statistik – rund 15,9 Millionen Menschen – Bundesrepublik – allein – leben[@shortAnswer] 
-==
+===
 [@example:Nach Erkenntnissen des Bundesamts für Statistik leben rund 15,9 Millionen Menschen in der Bundesrepublik allein.]
 ===
 [%1.]das – ein Anstieg der Singlehaushalte – 40 Prozent – bedeuten[@shortAnswer] 
-==
+===
 [$Das bedeutet einen Anstieg der Singlehaushalte um 40 Prozent.]
 ===
-[%2.][Großstädte – zirka ein Drittel der Haushalte – Ein-Personen-Haushalt – sein[@shortAnswer] 
-==
+[%2.] Großstädte – zirka ein Drittel der Haushalte – Ein-Personen-Haushalt – sein[@shortAnswer] 
+===
 [$In Großstädten sind zirka ein Drittel der Haushalte Ein-Personen-Haushalte.]
 ===
 [%3.] 60 Prozent der allein lebenden Männer – zwischen 35 und 64 Jahren – echte Junggesellen – sich selbst – bezeichnen[@shortAnswer] 
-==
+===
 [$60 Prozent der allein lebenden Männer zwischen 35 und 64 Jahren bezeichnen sich selbst als echte Junggesellen.]
 ===
 [%4.] allerdings – 17 Prozent der Singles – mittleres Alter – Sozialleistungen – angewiesen sein[@shortAnswer] 
-==
+===
 [$Allerdings sind 17 Prozent der Singles in mittlerem Alter auf Sozialleistungen angewiesen.]
 ===
 [%5.] männliche Singles – 11 Prozent – weniger – nicht allein lebende Männer – arbeiten[@shortAnswer]
-==
+===
 [$Bei männlichen Singles arbeiten 11 Prozent weniger als bei nicht allein lebenden Männern.]
 ===
 [%6.] weibliche Singles – erfolgreicher sein: – der Anteil an Führungskräften – 17 Prozent – liegen[@shortAnswer] 
-==
+===
 [$Weibliche Singles sind erfolgreicher: Der Anteil an Führungskräften liegt bei 17 Prozent.]
 ===
 [%7.] im Schnitt – jeder Single – zirka 70 Quadratmeter Wohnfläche – Verfügung – stehen[@shortAnswer]
-==
+===
 [$Im Schnitt stehen jedem Single zirka 70 Quadratmeter Wohnfläche zur Verfügung.]
 ===
 [%8.] Studien zufolge – 66 Prozent der Deutschen – die Liebe fürs Leben – glauben[@shortAnswer] 
-==
+===
 [$Studien zufolge glauben 66 Prozent der Deutschen an die Liebe fürs Leben.]
 ===
+
 
 [.chapter]
 [##Teil B (fakultativ)]
@@ -1828,7 +1890,8 @@ Bismarck gründete 1871 das Deutsche Reich und führte eine Sozialversicherung f
 Pole oder Deutscher war, wollen wir uns nicht beteiligen.
 Zu seiner Zeit existierten Nationalstaaten im heutigen Sinne noch nicht.
 [@reference: Die Helden der Deutschen. Der SPIEGEL 52/1999]
-||images are separate, should be addapted||
+||
+images are separate, should be addapted||
 
 
 
@@ -2023,8 +2086,7 @@ Es gibt manchmal mehrere Lösungen, manchmal keine Lösung. In diesem Fall schre
 [.cloze-instruction-grouped:bitmark--&image]
 [&image::https://docs.bitbook.education/bit-books/schubert/schubert_erkundungen_b2/web-resources/images/cellarius_ptolemaic_system.jpg]
 [!Ergänzen Sie die fehlenden Verben im Präteritum.
-Manche Verben können mehrmals verwendet werden.]
-||müsste angepasst werden, siehe oben||
+Manche Verben können mehrmals verwendet werden.]||müsste angepasst werden, siehe oben||
 [%B4]
 
 
@@ -2050,7 +2112,7 @@ gilt bis heute als das Genie der deutschen Literatur. 1808 [_veröffentlichte][_
 [_entdeckte][_entdecken] 1882 den Erreger der Tuberkulose mit einer neuen Färbemethode unter dem Mikroskop. Der Kampf gegen die Seuche [_konnte][!können] beginnen. 1905 [_erhielt][!erhalten][_bekam][!bekommen] er dafür den Nobelpreis.
 
 **8.Karl Marx**
-[_schrieb][!schreiben][_veröffentlichte][!veröffentlichen] mit seinem __Kapital__ die klassische Theorie des Geldes und mit dem Pamphlet __Das Kommunistische Manifest__ [_legte][!legen] er den theoretischen Grundstein für den Kommunismus.
+[_schrieb][!schreiben][_veröffentlichte][!veröffentlichen] mit seinem Kapital die klassische Theorie des Geldes und mit dem Pamphlet Das Kommunistische Manifest [_legte][!legen] er den theoretischen Grundstein für den Kommunismus.
 
 **9.Helmut Kohl**
 wurde als Kanzler der deutschen Wiedervereinigung gefeiert. Allerdings [_schadeten][!schaden] ungeklärte Geldgeschäfte während seiner Regierungszeit seinem Ansehen.
@@ -2269,7 +2331,7 @@ wir [_sollen] [_sollten,]
 ihr [_sollt] [_solltet]
 
 **5. mögen** 
-ich [_mag] [_mochte] 
+ich [_mag] [_mochte]
 es [_mag] [_mochte]
 Sie [_mögen] [_mochten]
 
@@ -2308,27 +2370,27 @@ schon lange miteinander bekannt machen, aber immer [_konntest][!können] du nich
 [.cloze]
 [%C4]
 [!Ergänzen Sie die fehlenden Modalverben in der richtigen Form. Es gibt manchmal mehrere Lösungen.]
-[%*][_Darf][@example] ich Sie mal kurz stören?
-[%1.]Der Kopierer geht wieder. Du [_kannst] jetzt kopieren.
-[%2.][_Möchten] Sie noch eine Tasse Tee?
-[%3.]Herr Müller hat sich krankgemeldet. Du [_musst][_sollst] ihn bei der Besprechung vertreten.
-[%4.]Alles ist gut gelaufen. Du [_brauchst] dir keine Sorgen zu machen.
-[%5.]Bei diesem Problem [_kann] Ihnen nur ein Spezialist helfen.
-[%6.]Ist Ihnen heiß? [_Soll] ich das Fenster öffnen?
-[%7.]Du [_musst][_solltest] dich auf die Prüfung gut vorbereiten, sonst fällst du durch.
-[%8.][_Darf] ich hier eine Zigarette rauchen? – Lieber nicht. Der Chef [_mag] das nicht.
-[%9.]Wenn Sie zu diesem Thema mehr wissen wollen, [_müssen] Sie sich an Dr. Stuber wenden.
-[%10.]Ich habe im Lotto gewonnen und [_will][_möchte] mein Geld anlegen. Was [_können] Sie mir empfehlen?
-[%11.]Tut mir leid. Ich [_kann] heute Abend nicht mitkommen. Ich [_muss] Überstunden machen.
-[%12.]Warum isst du nichts? [_Magst] du keinen Schokoladenkuchen?
-[%13.]Schönen Gruß von Herrn Schulze. Du [_sollst] ihm heute noch das Angebot faxen.
-[%14.]Ich [_muss] täglich nur noch 61/2 Stunden arbeiten.
-[%15.][_Soll] ich den Brief gleich schreiben oder [_kann] ich das auch morgen erledigen?
-[%16.]Wir [_wollen][_möchten] auf keinen Fall im selben Hotel wie letztes Jahr übernachten.
-[%17.]Mein Französisch ist zu schlecht. Ich [_kann] diesen Brief nicht übersetzen.
-[%18.]Du [_brauchst] jetzt nicht aufzuräumen. Ich mache das nachher.
-[%19.]Was [_mögen] Sie an Ihrer Arbeit besonders?
-[%20.]Die Zeit ist um. Wir [_müssen] jetzt Schluss machen.
+[_Darf][@example] ich Sie mal kurz stören?
+1. Der Kopierer geht wieder. Du [_kannst] jetzt kopieren.
+2. [_Möchten] Sie noch eine Tasse Tee?
+3. Herr Müller hat sich krankgemeldet. Du [_musst][_sollst] ihn bei der Besprechung vertreten.
+4. Alles ist gut gelaufen. Du [_brauchst] dir keine Sorgen zu machen.
+5. Bei diesem Problem [_kann] Ihnen nur ein Spezialist helfen.
+6. Ist Ihnen heiß? [_Soll] ich das Fenster öffnen?
+7. Du [_musst][_solltest] dich auf die Prüfung gut vorbereiten, sonst fällst du durch.
+8. [_Darf] ich hier eine Zigarette rauchen? – Lieber nicht. Der Chef [_mag] das nicht.
+9. Wenn Sie zu diesem Thema mehr wissen wollen, [_müssen] Sie sich an Dr. Stuber wenden.
+10. Ich habe im Lotto gewonnen und [_will][_möchte] mein Geld anlegen. Was [_können] Sie mir empfehlen?
+11. Tut mir leid. Ich [_kann] heute Abend nicht mitkommen. Ich [_muss] Überstunden machen.
+12. Warum isst du nichts? [_Magst] du keinen Schokoladenkuchen?
+13. Schönen Gruß von Herrn Schulze. Du [_sollst] ihm heute noch das Angebot faxen.
+14. Ich [_muss] täglich nur noch 61/2 Stunden arbeiten.
+15. [_Soll] ich den Brief gleich schreiben oder [_kann] ich das auch morgen erledigen?
+16. Wir [_wollen][_möchten] auf keinen Fall im selben Hotel wie letztes Jahr übernachten.
+17. Mein Französisch ist zu schlecht. Ich [_kann] diesen Brief nicht übersetzen.
+18. Du [_brauchst] jetzt nicht aufzuräumen. Ich mache das nachher.
+19. Was [_mögen] Sie an Ihrer Arbeit besonders?
+20. Die Zeit ist um. Wir [_müssen] jetzt Schluss machen.
 
 
 [.cloze]
@@ -2423,7 +2485,7 @@ __Wir sind nach Italien gefahren. Die Blumen sind verblüht.__
 [%3.] Der Student wendet sich mit dem Problem an den Professor.
 [$Der Student wendete sich mit dem Problem an den Professor]
 [$Der Student wandte sich mit dem Problem an den Professor]
-[$Der Student hat sich an den Professor gewendet][Der Student hat sich an den Professor gewandt.]
+[$Der Student hat sich an den Professor gewendet][$Der Student hat sich an den Professor gewandt.]
 ===
 [%4.] Anna denkt nicht daran, sich zu entschuldigen.
 [$Anna dachte nicht daran, sich zu entschuldigen]
@@ -2662,7 +2724,7 @@ Ein gelungenes Kompliment ist für mich, wenn mich jemand fragt, ob ich abgenomm
 * Ich arbeite bei ... als ...
 * Ich bin ledig/Single, verheiratet, geschieden. 
 * Ich habe die __(deutsche)__ Staatsbürgerschaft.
-Ich bin __(Deutsche[r]). __
+Ich bin __(Deutsche-r-). __
 * In meiner Freizeit ...
 
 **Schule und Ausbildung**
@@ -2766,30 +2828,30 @@ __Nach der Schule:__
 [%D2]
 ===
 Ich kann Auskunft über mich selbst geben und andere Leute nach persönlichen Angaben befragen.
-[ •gut ]
-[ •nicht so gut]
+[•gut ]
+[•nicht so gut]
 ===
 Ich kann kurz über meine Schulzeit, meine Ausbildung und das deutsche Schulsystem berichten.
-[ •gut ]
-[ •nicht so gut]
+[•gut ]
+[•nicht so gut]
 ===
 Ich kann einen tabellarischen Lebenslauf schreiben und über Ausbildungsabschlüsse und Arbeitserfahrungen Auskunft geben.
-[ •gut ]
-[ •nicht so gut]
+[•gut ]
+[•nicht so gut]
 ===
 Ich kann Texte über Partnersuche und Singlehaushalte verstehen und die wichtigsten Aussagen wiedergeben.
-[ •gut ]
-[ •nicht so gut]
+[•gut ]
+[•nicht so gut]
 ===
 Ich kann eine Infografik zum Thema Hochzeit in Deutschland beschreiben und über Hochzeitsrituale mündlich und schriftlich berichten.
-[ •gut ]
-[ •nicht so gut]
+[•gut ]
+[•nicht so gut]
 ===
 Ich kann über das Thema Privatleben von Prominenten diskutieren.
-[ •gut ]
-[ •nicht so gut]
+[•gut ]
+[•nicht so gut]
 ===
 Ich kann ausführlichere Biografien und Berichte über berühmte Persönlichkeiten verstehen. (fakultativ)
-[ •gut ]
-[ •nicht so gut]
+[•gut ]
+[•nicht so gut]
 ===
