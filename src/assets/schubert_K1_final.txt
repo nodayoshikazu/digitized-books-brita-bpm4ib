@@ -22,7 +22,7 @@ K1 corrections
 [@ISBN:978-3-941323-43-8]
 
 [.article]
-||Excluded: Bitte beachten Sie unser Internet-Angebot mit zusätzlichen Aufgaben und Übungen zum Lehrwerk unter: www.aufgaben.schubert-verlag.de||
+||Excluded: Test test Bitte beachten Sie unser Internet-Angebot mit zusätzlichen Aufgaben und Übungen zum Lehrwerk unter: www.aufgaben.schubert-verlag.de||
 
 ||Excluded: Das vorliegende Lehrbuch beinhaltet einen herausnehmbaren Lösungsschlüssel sowie eine CD zur Hörverstehensschulung.
 Die Hörmaterialien sind außerdem auf der Website des Verlags unter
